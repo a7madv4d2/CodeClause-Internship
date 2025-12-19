@@ -20,7 +20,7 @@ to generate **holistic, explainable HR insights**.
 
 ### 🧑‍🏫 Knowledge Distillation
 - Implements a **Teacher–Student architecture**
-- A Large Language Model (Gemini / GPT-4 / DeepSeek) generates synthetic psychological labels
+- A Large Language Model (Gemini) generates synthetic psychological labels
 - A lightweight neural network is trained for **offline inference**
 
 ### 🧠 Reinforcement Learning Agent
