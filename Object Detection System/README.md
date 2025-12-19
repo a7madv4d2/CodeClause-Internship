@@ -9,7 +9,7 @@ An advanced computer vision pipeline for **high-precision face detection and ide
 - [Overview](#-overview)
 - [Key Features](#-key-features)
 - [Tech Stack](#-tech-stack)
-- [Installation]
+- [Installation](#-installation-&-setup)
 
 ---
 
@@ -47,7 +47,7 @@ Using **YOLOv8**, the system supports both generic object detection and **identi
 | Language | Python 3 | Core programming language |
 
 ---
-## ⚙️ Installation & Setup (Object Detection System)
+## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
