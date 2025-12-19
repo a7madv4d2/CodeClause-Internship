@@ -9,6 +9,7 @@ An advanced computer vision pipeline for **high-precision face detection and ide
 - [Overview](#-overview)
 - [Key Features](#-key-features)
 - [Tech Stack](#-tech-stack)
+- [Installation]
 
 ---
 
@@ -46,3 +47,16 @@ Using **YOLOv8**, the system supports both generic object detection and **identi
 | Language | Python 3 | Core programming language |
 
 ---
+## ⚙️ Installation & Setup (Object Detection System)
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/a7madv4d2/CodeClause-Internship.git
+cd CodeClause-Internship/Object\ Detection\ System
+```
+### 2️⃣ Install Dependencies
+
+```
+pip install ultralytics streamlit opencv-python-headless pillow
+```
