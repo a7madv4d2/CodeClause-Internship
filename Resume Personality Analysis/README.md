@@ -61,7 +61,7 @@ The system follows a **3-stage pipeline**:
 ### 1️⃣ Data Generation (The Teacher)
 - **Input:** Raw resumes (CSV / PDF)
 - **Process:**  
-  LLM (Gemini / DeepSeek) acts as a *psychometrician* to generate personality labels
+  LLM (Gemini) acts as a *psychometrician* to generate personality labels
 - **Output:**  
   `final_labeled_dataset.json`
 
